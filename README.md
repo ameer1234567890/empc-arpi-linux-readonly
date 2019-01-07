@@ -47,7 +47,7 @@ sudo nano /etc/rsyslog.conf
 ```
 cd /tmp
 wget https://raw.githubusercontent.com/janztec/empc-arpi-linux-readonly/master/install-experimental.sh -O install-experimental.sh
-pi@raspberrypi:/tmp $ sudo bash install-experimental.sh
+sudo bash install-experimental.sh
 ```
 
 
